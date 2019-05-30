@@ -1,0 +1,13 @@
+C:\Users\Felipe\Desktop\IClinic\Desafio\VbNet\Importador\Importador\bin\Debug\Importador.exe.config
+C:\Users\Felipe\Desktop\IClinic\Desafio\VbNet\Importador\Importador\bin\Debug\Importador.exe
+C:\Users\Felipe\Desktop\IClinic\Desafio\VbNet\Importador\Importador\bin\Debug\Importador.pdb
+C:\Users\Felipe\Desktop\IClinic\Desafio\VbNet\Importador\Importador\bin\Debug\Importador.xml
+C:\Users\Felipe\Desktop\IClinic\Desafio\VbNet\Importador\Importador\obj\Debug\Importador.Form1.resources
+C:\Users\Felipe\Desktop\IClinic\Desafio\VbNet\Importador\Importador\obj\Debug\Importador.Resources.resources
+C:\Users\Felipe\Desktop\IClinic\Desafio\VbNet\Importador\Importador\obj\Debug\Importador.vbproj.GenerateResource.cache
+C:\Users\Felipe\Desktop\IClinic\Desafio\VbNet\Importador\Importador\obj\Debug\Importador.vbproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\IClinic\Desafio\VbNet\Importador\Importador\obj\Debug\Importador.exe
+C:\Users\Felipe\Desktop\IClinic\Desafio\VbNet\Importador\Importador\obj\Debug\Importador.xml
+C:\Users\Felipe\Desktop\IClinic\Desafio\VbNet\Importador\Importador\obj\Debug\Importador.pdb
+C:\Users\Felipe\Desktop\IClinic\Desafio\VbNet\Importador\Importador\bin\Debug\MySql.Data.dll
+C:\Users\Felipe\Desktop\IClinic\Desafio\VbNet\Importador\Importador\obj\Debug\Importador.vbproj.CopyComplete
